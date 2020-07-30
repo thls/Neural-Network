@@ -1,0 +1,14 @@
+{
+  "name": "neural-network",
+  "version": "1.0.0",
+  "description": "my first neural network project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thiago Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0"
+  }
+}
